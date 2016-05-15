@@ -42,6 +42,8 @@ void MainWindow::on_pushButton_clicked()
     GameWindow g;
     setCentralWidget(&g);
     g.show();
+    setFocusProxy(&g);
+    g.setFocus();
     g.exec();
 
 
