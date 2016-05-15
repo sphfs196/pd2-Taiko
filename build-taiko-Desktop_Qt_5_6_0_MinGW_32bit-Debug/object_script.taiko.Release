@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\gamewindow.o
+./release\endwindow.o
+./release\scene.o
+./release\itemmm.o
+./release\qrc_pics.o
+./release\moc_mainwindow.o
+./release\moc_gamewindow.o
+./release\moc_endwindow.o
+./release\moc_scene.o
+);

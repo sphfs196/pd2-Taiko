@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>../bear_bg2.jpg</file>
+        <file>../game_bg1.gif</file>
+        <file>../game_bg3.jpg</file>
+        <file>../head1.png</file>
+        <file>../head2.png</file>
+        <file>../head3.png</file>
+        <file>../movie.png</file>
+        <file>../movie1.png</file>
+        <file>../movie2.png</file>
+        <file>../pillow.jpg</file>
+        <file>../pillow1.png</file>
+        <file>../head5.png</file>
+        <file>../endbg.png</file>
+        <file>../endbg2.jpg</file>
+        <file>../bg1.png</file>
+        <file>../bear6.png</file>
+        <file>../heart.png</file>
+        <file>../movie3.png</file>
+        <file>../005_1.png</file>
+        <file>../boom2.png</file>
+        <file>../gameover1.jpg</file>
+        <file>../gameover4.png</file>
+        <file>../movie4.png</file>
+        <file>../movie6.png</file>
+        <file>../gameoverbg.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>../g11.mp3</file>
+        <file>../startmu1.mp3</file>
+        <file>../jump02.mp3</file>
+        <file>../explosion2.mp3</file>
+    </qresource>
+</RCC>

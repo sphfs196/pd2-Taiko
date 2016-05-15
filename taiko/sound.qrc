@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>../jump02.mp3</file>
+        <file>../explosion2.mp3</file>
+        <file>../startmu1.mp3</file>
+        <file>../g11.mp3</file>
+    </qresource>
+    <qresource prefix="/evil">
+        <file>../go1.mp3</file>
+    </qresource>
+</RCC>
